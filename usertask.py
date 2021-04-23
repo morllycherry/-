@@ -29,7 +29,7 @@ while one:
             third = str(input("Please input a password:"))
             if second == 'inside.user':
                 if third == '0':
-                    print("Confirmed account and password, logging in......")
+                    print("thats right")
                     two = False
                     time_end = time.time()
                     sum_t = (time_end - time_start)
