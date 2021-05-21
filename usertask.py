@@ -25,7 +25,7 @@ while one:
         two = True
         while two:
             time_start = time.time()
-            second = str(input("Please enter account:"))
+            second = str(input("what is your at"))
             third = str(input("Please input a password:"))
             if second == 'inside.user':
                 if third == '0':
