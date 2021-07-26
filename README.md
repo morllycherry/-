@@ -8,3 +8,7 @@ check 5
 check 6
 check 54
 check 0
+check 0
+check 11
+check 12
+check 13
