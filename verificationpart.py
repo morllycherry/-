@@ -7,7 +7,7 @@ verification part 1
 def verification1():
     print("part 1")
     print("main idea is test")
-    print("wellcome boy this is a new place")
+    print("wellcome ")
     none = True
     while none:
 
