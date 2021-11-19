@@ -5,10 +5,12 @@ check 1
 check 2
 check 4
 check 5
-check 6
 check 54
 check 0
 check 0
 check 11
-check 12
+
 check 13
+check 14
+check 15
+check 23
