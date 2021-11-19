@@ -2,10 +2,8 @@
 
 import time
 import os
-import tkinter
 from verificationpart import*
 
-top = tkinter.Tk(className="")
 verification1
 def sum_t():
     print("Welcome")
@@ -72,4 +70,3 @@ while one:
     else:
         print("This address is not valid")
 
-top.mainloop()
