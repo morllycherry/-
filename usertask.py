@@ -32,7 +32,7 @@ while one:
                     time_end = time.time()
                     sum_t = (time_end - time_start)
                     print("time cost",sum_t,"s")
-                    time.sleep(5)
+                    time.sleep(30 )
 
                     three = True
                     while three:
