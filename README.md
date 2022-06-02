@@ -17,3 +17,9 @@ check 23
 check 24
 check 25
 check26
+
+check 23
+check 24
+check 12
+
+check12
