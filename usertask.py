@@ -4,7 +4,7 @@ import time
 import os
 from verificationpart import*
 
-verification1
+
 def sum_t():
     print("Welcome")
 time.sleep(1)
@@ -13,7 +13,7 @@ one = True
 while one:
     time_start = time.time()
     first = str(input("Address:"))
-    if first == '000.000.000.000':
+    if first == '192.168.0.108':
         print("Confirmed domain name")
         one = False
         time_end = time.time()
